@@ -1,2 +1,3 @@
-# prime-task-manager-ia8a
-Automated issue comment bot repository
+# Prime Task Manager Ia8A
+
+Automated issue comment bot repository.
